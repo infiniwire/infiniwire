@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-sheng.svg)
 ![Sheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=qindroid&count_private=true&show_icons=true&theme=gotham&hide_border=true)
 
 <h1 align="center">I am Sheng</h1>
