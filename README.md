@@ -2,8 +2,9 @@
 <!-- ![Sheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=infiniwire&count_private=true&show_icons=true&theme=gotham&hide_border=true) -->
 
 <h1 align="center">I am Sheng</h1>
-<h3 align="center">Web and Software Developer</h3>
-<h5 align="center">Code. Create. Automate the World</h3>
+<h3 align="center">Software Developer</h3>
+<h5 align="center">Goal-driven software development powered by AI agents to accelerate productivity and innovation</h5>
+<h5 align="center">ChatGPT Pro · Claude Enterprise · Gemini Pro · Perplexity Pro · GitHub Copilot</h5>
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
