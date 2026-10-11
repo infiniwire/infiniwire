@@ -4,7 +4,7 @@
 <h1 align="center">I am Sheng</h1>
 <h3 align="center">Software Developer</h3>
 <h5 align="center">Goal-driven software development powered by AI agents to accelerate productivity and innovation</h5>
-<h5 align="center">ChatGPT Pro · Claude Enterprise · Gemini Pro · Perplexity Pro · GitHub Copilot</h5>
+<h5 align="center">ChatGPT Pro · Claude Enterprise · Gemini Enterprise · Perplexity Pro · GitHub Copilot</h5>
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
